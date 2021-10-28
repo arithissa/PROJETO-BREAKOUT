@@ -1,7 +1,7 @@
 # PROJETO-BREAKOUT
 Projeto de confecção de um jogo baseado no jogo Breakout, atualmente ainda em desenvolvimento por Aríthissa Vitória e Lucas Silva Neves.
 
-UNIVERSIDADE DE SÃO PAULO
+**UNIVERSIDADE DE SÃO PAULO**
 INSTITUTO DE CIÊNCIAS MATEMÁTICAS E DE COMPUTAÇÃO
 
 
